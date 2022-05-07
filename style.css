@@ -1,0 +1,68 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='860' preserveAspectRatio='none' viewBox='0 0 1440 860'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1148%26quot%3b)' fill='none'%3e%3crect width='1440' height='860' x='0' y='0' fill='url(%23SvgjsLinearGradient1149)'%3e%3c/rect%3e%3cpath d='M1094.266298392176 698.7700396180667L1031.5147306309686 846.6034689874566 1179.3481600003586 909.3550367486639 1242.0997277615659 761.521607379274z' fill='rgba(255%2c 0%2c 0%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M694.9087553161232 231.95832156157977L526.9686394375303 64.01820568298683 359.0285235589373 231.9583215615798 526.9686394375303 399.89843744017276z' fill='rgba(255%2c 0%2c 0%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1426.345387434478 535.4013672182665L1532.9872617141793 442.69900021105656 1440.2848947069695 336.05712593135513 1333.643020427268 428.7594929385651z' fill='rgba(255%2c 0%2c 0%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M780.1845349230339 222.44148578072645L889.3388745263072 348.00918957140516 1014.9065783169859 238.8548499681318 905.7522387137126 113.2871461774531z' fill='rgba(255%2c 0%2c 0%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M165.00532130812616 150.18241425511013L260.4212226059842 268.01123945606406 378.25004780693814 172.595338158206 282.8341465090801 54.766512957252075z' fill='rgba(255%2c 0%2c 0%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M823.231449731047 567.5475523347709L868.2803035641659 748.2286363662876 1048.9613875956825 703.1797825331686 1003.9125337625636 522.4986985016519z' fill='rgba(255%2c 0%2c 0%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M593.0119980837699 692.4362973291519L453.60909106404426 575.4633694638594 336.6361631987518 714.8662764835851 476.03907021847743 831.8392043488775z' fill='rgba(255%2c 0%2c 0%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1440.1225850484866 638.2957364677943L1310.267641565755 472.0889881581669 1144.0608932561277 601.9439316408984 1273.915836738859 768.150679950526z' fill='rgba(255%2c 0%2c 0%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M201.06175035285034 700.7263277026282L286.58291498840737 892.810008421206 478.6665957069853 807.2888437856491 393.1454310714282 615.2051630670711z' fill='rgba(255%2c 0%2c 0%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M454.3287080586216 193.86699928515878L533.7609525443165-50.60031188934386 289.2936413698138-130.03255637503872 209.86139688411896 114.43475479946392z' fill='rgba(255%2c 0%2c 0%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M908.1353131671726 393.19678216328066L794.1199187733087 575.6595546540146 976.5826912640426 689.6749490478786 1090.5980856579065 507.21217655714463z' fill='rgba(255%2c 0%2c 0%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1148'%3e%3crect width='1440' height='860' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='10.07%25' y1='-16.86%25' x2='89.93%25' y2='116.86%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1149'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(158%2c 0%2c 3%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 4s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  #listaFilmes img {
+    margin: 10px;
+    max-height: 250px;
+  }
+  
+  .form-wrapper {
+    margin: 0 0 15px;
+  }
+  
+  .form-wrapper input {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 15px;
+  }
+  
+  .form-wrapper button {
+    border: 0;
+    color: #ffffff;
+    background: #da1e26;
+    font-weight: bold;
+    padding: 15px 20px;
+    font-size: 16px;
+    border-radius: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .form-wrapper button:hover {
+    opacity: 0.8;
+  }
+  
